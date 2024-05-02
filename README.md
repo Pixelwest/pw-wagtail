@@ -36,8 +36,15 @@ Das ist die Vorlage, um alle unsere Wagtail-Projekte von Pixelwest einfach und s
 ''' python manage.py createsuperuser '''
 
 8. Starte den Entwicklungsserver:
-''' python manage.py runserver '''
+''' python manage.py runserver meineapp '''
 
+9. Create APP
+''' python manage.py startapp '''
+
+
+# APPs
+- core
+- website_setings
 
 # NPM
 1. npm init -y
